@@ -1,0 +1,9 @@
+# Archivos compilados de Java
+*.class
+
+# Carpeta de salida
+/bin/
+
+# Archivos temporales del sistema o del editor
+*.log
+.vscode/
