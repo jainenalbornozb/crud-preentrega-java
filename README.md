@@ -2,11 +2,11 @@
 
 Aplicación desarrollada en Java que implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar datos en una base de datos.
 
-📌 ### Descripción
+### Descripción
 
 Este proyecto es una implementación básica de un sistema CRUD utilizando Java. Está diseñado para facilitar la comprensión y aplicación de operaciones fundamentales en la gestión de datos.
 
-🚀 ### Requisitos
+### Requisitos 🚀
 
 JDK 8 o superior
 
@@ -16,7 +16,7 @@ Base de datos MySQL o H2
 
 Conector JDBC adecuado para la base de datos elegida
 
-📦 ### Instalación
+### Instalación📦
 
 Clona este repositorio en tu máquina local:
 
@@ -29,7 +29,7 @@ Configura la conexión a la base de datos en el archivo de configuración corres
 
 Ejecuta la clase principal para iniciar la aplicación.
 
-🛠️ ### Uso
+### Uso 🛠️ 
 
 La aplicación permite realizar las siguientes operaciones sobre los datos:
 
@@ -43,7 +43,7 @@ Eliminar: Eliminar registros de la base de datos.
 
 Cada operación está implementada en clases separadas para mantener una estructura organizada y modular.
 
-🔍###  Estructura del Proyecto
+###  Estructura del Proyecto 🔍
 src/
 ├── aplicacion/   # Clase principal y controladores
 ├── excepciones/  # Manejo de excepciones personalizadas
